@@ -1,0 +1,7051 @@
+Log de Dados:
+Caminhão 4
+Tempo de carga/descarga: 119 minutos
+Tempo de inspecao do produto: 531 minutos
+Tempo total na doca: 2948 minutos
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 2
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$208.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$307.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$604.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$901.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$109.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 9
+Preço: R$604.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$703.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$703.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 4
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$505.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$208.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$10.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$406.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$703.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$208.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 7
+Preço: R$10.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$505.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$208.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$604.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 4
+Preço: R$901.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$10.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 6
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$703.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 8
+Preço: R$208.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$901.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$208.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$604.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$10.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$406.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$307.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$406.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$10.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$505.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$703.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$703.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$406.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$208.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$109.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$307.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$109.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$10.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 1
+Preço: R$604.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$10.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$802.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 4
+Preço: R$802.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$406.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 6
+Preço: R$604.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$307.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$604.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$109.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$604.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$703.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$109.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 6
+Preço: R$703.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$703.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 8
+Preço: R$802.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$703.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$10.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$901.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$703.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 6
+Preço: R$406.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$307.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$703.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$604.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 1
+Preço: R$109.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$10.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$604.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 4
+Preço: R$307.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$109.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$10.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$406.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$505.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$604.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Caminhão desenfileirado: 4
+Caminhão 5
+Tempo de carga/descarga: 590 minutos
+Tempo de inspecao do produto: 585 minutos
+Tempo total na doca: 3742 minutos
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 3
+Preço: R$10.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$208.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$802.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$604.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$307.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$406.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$802.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$10.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 4
+Preço: R$307.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$208.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$208.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$802.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$406.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 9
+Preço: R$109.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 10
+Preço: R$109.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$802.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$901.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$802.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$307.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$10.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$901.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 10
+Preço: R$208.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 1
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$307.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$406.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$604.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$109.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$703.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$10.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$406.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: TABLET
+ID: 10
+Preço: R$208.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$109.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 3
+Preço: R$109.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$703.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$703.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$109.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 7
+Preço: R$109.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 8
+Preço: R$901.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$604.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$406.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$208.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$505.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$505.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$109.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$307.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$604.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$604.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$505.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$307.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 4
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$406.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$307.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$307.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$703.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$406.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 1
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$208.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 4
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$802.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$406.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$307.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$307.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$109.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$703.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$109.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$307.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$10.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$109.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$208.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$208.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$802.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$505.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$406.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 1
+Preço: R$406.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$604.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$10.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 4
+Preço: R$802.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$208.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$901.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$604.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$208.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$307.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 10
+Preço: R$703.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Caminhão desenfileirado: 5
+Caminhão 8
+Tempo de carga/descarga: 289 minutos
+Tempo de inspecao do produto: 555 minutos
+Tempo total na doca: 3864 minutos
+Produtos: TABLET
+ID: 1
+Preço: R$802.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 2
+Preço: R$208.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: OVERBOARD
+ID: 4
+Preço: R$208.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$406.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$10.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$307.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$406.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$703.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$307.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 2
+Preço: R$802.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$604.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$703.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$802.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$307.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$802.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$802.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$802.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$505.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$505.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$406.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$703.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$802.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$307.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$901.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$109.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 10
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$703.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 3
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$505.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$505.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$307.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$901.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$505.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$505.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 3
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$307.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$307.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$505.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$307.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$109.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$307.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$604.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$307.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$505.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$307.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$802.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$802.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$10.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$505.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$703.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$802.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$604.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 6
+Preço: R$109.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$406.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$505.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$10.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$505.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$703.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$604.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$109.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: FONE DE OUVIDO
+ID: 5
+Preço: R$604.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$604.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$703.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CARREGADOR
+ID: 9
+Preço: R$901.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$406.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 1
+Preço: R$406.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$208.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$307.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$901.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$10.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$505.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$505.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$901.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$505.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$406.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$802.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$802.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$901.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$406.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$307.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$703.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$109.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Caminhão desenfileirado: 8
+Caminhão 2
+Tempo de carga/descarga: 43 minutos
+Tempo de inspecao do produto: 564 minutos
+Tempo total na doca: 2799 minutos
+Produtos: CELULAR
+ID: 1
+Preço: R$406.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$505.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$703.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$901.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$505.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$604.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$406.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$703.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$505.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$406.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$802.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 4
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 5
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$109.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$208.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$505.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$406.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$406.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$10.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$604.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$901.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$604.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$703.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$109.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 10
+Preço: R$505.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 1
+Preço: R$901.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$10.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$307.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 4
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$208.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$703.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$307.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$901.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$703.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$208.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$307.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$10.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$505.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$109.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$505.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 1
+Preço: R$406.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$901.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$802.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$406.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$10.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$406.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$703.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$604.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 10
+Preço: R$505.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$307.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$109.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$10.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$406.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$901.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$109.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$505.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$208.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$109.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$604.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$505.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$307.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$802.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$307.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$604.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$802.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 5
+Preço: R$109.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$406.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$505.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$901.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$307.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$703.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$10.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$901.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$505.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$307.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$703.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$406.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$901.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$10.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Caminhão desenfileirado: 2
+Caminhão 1
+Tempo de carga/descarga: 248 minutos
+Tempo de inspecao do produto: 77 minutos
+Tempo total na doca: 3377 minutos
+Produtos: NOTEBOOK
+ID: 1
+Preço: R$208.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$703.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 3
+Preço: R$406.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$307.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$208.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$10.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$208.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$901.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$604.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$406.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$505.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$505.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$802.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$10.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$505.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: MEMORIA RAM
+ID: 7
+Preço: R$307.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$703.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$406.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 10
+Preço: R$109.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$208.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 3
+Preço: R$604.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$802.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$109.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$10.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 7
+Preço: R$901.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$109.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 10
+Preço: R$406.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$406.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$802.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 4
+Preço: R$307.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$109.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$109.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 7
+Preço: R$703.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$406.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$505.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$208.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 1
+Preço: R$802.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 2
+Preço: R$505.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 3
+Preço: R$109.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$505.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$604.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$10.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$901.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$703.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 9
+Preço: R$901.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$703.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 1
+Preço: R$505.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$307.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$406.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$10.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$505.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$10.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$802.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$703.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$505.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$208.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$307.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$208.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$802.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$307.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$901.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$406.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$703.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$703.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 2
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 3
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$406.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$505.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: PLACA DE VIDEO
+ID: 8
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$703.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$406.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$802.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$604.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$208.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$109.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$208.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$208.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$10.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$109.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$505.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$307.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$703.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$307.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CARREGADOR
+ID: 7
+Preço: R$109.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$703.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$703.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Caminhão desenfileirado: 1
+Caminhão 7
+Tempo de carga/descarga: 359 minutos
+Tempo de inspecao do produto: 335 minutos
+Tempo total na doca: 2795 minutos
+Produtos: OVERBOARD
+ID: 1
+Preço: R$109.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$505.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 3
+Preço: R$10.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$406.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$109.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$703.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$10.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$307.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$703.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$109.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$604.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 2
+Preço: R$505.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$703.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$505.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$406.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$802.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$802.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$802.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$208.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$802.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$604.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 4
+Preço: R$604.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$109.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$604.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$802.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$406.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$208.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$406.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$307.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 3
+Preço: R$703.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$109.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$109.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$604.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$604.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$109.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$208.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 3
+Preço: R$505.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$208.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$10.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 6
+Preço: R$406.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$109.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$307.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$109.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$802.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$10.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$901.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$406.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$703.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$505.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$505.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$406.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 9
+Preço: R$901.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$703.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 1
+Preço: R$109.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 2
+Preço: R$208.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$208.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 4
+Preço: R$406.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 5
+Preço: R$208.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 6
+Preço: R$406.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: MEMORIA RAM
+ID: 7
+Preço: R$208.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$109.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$505.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$703.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$208.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$208.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$109.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$802.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$505.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$208.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 1
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$703.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 3
+Preço: R$10.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 4
+Preço: R$703.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$10.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$307.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$703.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$505.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$604.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 1
+Preço: R$208.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$703.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$307.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$901.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$208.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$307.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$307.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$703.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Caminhão desenfileirado: 7
+Caminhão 10
+Tempo de carga/descarga: 317 minutos
+Tempo de inspecao do produto: 259 minutos
+Tempo total na doca: 2585 minutos
+Produtos: OVERBOARD
+ID: 1
+Preço: R$406.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 4
+Preço: R$703.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$901.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$505.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$307.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 10
+Preço: R$406.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 1
+Preço: R$901.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$802.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$505.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$109.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$406.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: MEMORIA RAM
+ID: 7
+Preço: R$10.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$703.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$604.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$604.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$208.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$505.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$802.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$208.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$604.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 10
+Preço: R$406.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$505.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$307.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$901.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$208.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$604.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$10.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$703.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$505.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 3
+Preço: R$208.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$901.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$307.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$604.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 8
+Preço: R$604.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$703.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$10.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 3
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$307.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$604.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$505.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$406.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$307.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$604.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$208.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 4
+Preço: R$208.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$604.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$703.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$307.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$406.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$703.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$802.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$604.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 3
+Preço: R$604.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$307.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$604.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 8
+Preço: R$208.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$406.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: TABLET
+ID: 10
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 1
+Preço: R$505.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: PLACA DE VIDEO
+ID: 2
+Preço: R$406.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$208.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$901.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 7
+Preço: R$703.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$703.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$505.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$109.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 1
+Preço: R$10.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$10.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$307.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 4
+Preço: R$901.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$604.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$802.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$604.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$505.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$802.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Caminhão desenfileirado: 10
+Caminhão 3
+Tempo de carga/descarga: 82 minutos
+Tempo de inspecao do produto: 577 minutos
+Tempo total na doca: 2934 minutos
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$10.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$505.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$604.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$208.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$604.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$208.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$10.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$901.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 10
+Preço: R$901.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$604.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$10.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$406.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$703.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$307.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 6
+Preço: R$802.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$208.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$802.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 9
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$901.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 1
+Preço: R$10.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$406.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: MEMORIA RAM
+ID: 3
+Preço: R$406.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$802.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$505.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$802.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 8
+Preço: R$505.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$802.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 3
+Preço: R$703.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$208.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$604.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$109.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$109.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$109.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$505.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$703.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$802.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$901.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$109.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$802.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$109.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 9
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$604.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$505.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$208.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$505.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 5
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$901.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$10.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$208.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$10.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$901.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$802.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$307.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$208.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$505.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$505.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$901.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$802.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 10
+Preço: R$10.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$208.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$604.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$901.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$307.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$406.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$208.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 10
+Preço: R$208.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$901.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 2
+Preço: R$802.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$703.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 4
+Preço: R$406.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$208.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$109.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$703.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: PLACA DE VIDEO
+ID: 8
+Preço: R$901.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$307.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$901.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$109.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$109.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$109.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$901.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$10.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: NOTEBOOK
+ID: 7
+Preço: R$208.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$208.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 9
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CARREGADOR
+ID: 10
+Preço: R$901.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Caminhão desenfileirado: 3
+Caminhão 9
+Tempo de carga/descarga: 468 minutos
+Tempo de inspecao do produto: 441 minutos
+Tempo total na doca: 1880 minutos
+Produtos: CELULAR
+ID: 1
+Preço: R$703.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$406.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$208.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 5
+Preço: R$802.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$109.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$505.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$604.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 10
+Preço: R$604.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$109.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$10.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$505.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$901.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$208.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: OVERBOARD
+ID: 6
+Preço: R$307.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$109.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$307.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$10.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$406.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$307.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$703.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$10.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$802.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 6
+Preço: R$307.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CARREGADOR
+ID: 7
+Preço: R$406.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$109.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$10.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$10.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 3
+Preço: R$505.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$802.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$208.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$208.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$802.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$901.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$703.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$901.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 1
+Preço: R$901.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$10.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$505.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$307.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: FONE DE OUVIDO
+ID: 5
+Preço: R$703.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$307.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$604.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 8
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$604.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: PLACA DE VIDEO
+ID: 10
+Preço: R$901.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$307.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$505.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$10.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$208.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$802.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 6
+Preço: R$406.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$406.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$208.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$505.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$604.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$901.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$901.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$10.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$208.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$703.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 7
+Preço: R$505.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$406.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$604.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$307.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: OVERBOARD
+ID: 1
+Preço: R$406.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$703.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 5
+Preço: R$10.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 6
+Preço: R$703.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: PLACA DE VIDEO
+ID: 7
+Preço: R$307.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 8
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 9
+Preço: R$604.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 10
+Preço: R$703.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$901.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 2
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$505.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$604.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 5
+Preço: R$307.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: CARREGADOR
+ID: 6
+Preço: R$802.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$208.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 8
+Preço: R$703.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: NOTEBOOK
+ID: 9
+Preço: R$208.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 10
+Preço: R$10.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 2
+Preço: R$703.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: TABLET
+ID: 3
+Preço: R$307.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 4
+Preço: R$406.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$307.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: RELOGIO
+ID: 6
+Preço: R$406.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$109.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$703.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$703.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Caminhão desenfileirado: 9
+Caminhão 6
+Tempo de carga/descarga: 585 minutos
+Tempo de inspecao do produto: 277 minutos
+Tempo total na doca: 3883 minutos
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$802.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$604.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 4
+Preço: R$802.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 5
+Preço: R$901.00
+Origem: RJ
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$604.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$307.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$604.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CELULAR
+ID: 9
+Preço: R$406.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$604.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$901.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 3
+Preço: R$505.00
+Origem: RJ
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: CARREGADOR
+ID: 4
+Preço: R$505.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 5
+Preço: R$703.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$901.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$10.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$109.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 9
+Preço: R$604.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$10.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: FONE DE OUVIDO
+ID: 1
+Preço: R$901.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: TABLET
+ID: 2
+Preço: R$604.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 3
+Preço: R$109.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$604.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 5
+Preço: R$109.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: GABINETE
+ID: 6
+Preço: R$604.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$604.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$307.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 9
+Preço: R$604.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$406.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$406.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: CARREGADOR
+ID: 2
+Preço: R$703.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$109.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 4
+Preço: R$406.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$703.00
+Origem: SP
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 7
+Preço: R$109.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 8
+Preço: R$604.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$604.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: RELOGIO
+ID: 10
+Preço: R$10.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 1
+Preço: R$208.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 2
+Preço: R$703.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: PLACA DE VIDEO
+ID: 3
+Preço: R$505.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: NOTEBOOK
+ID: 4
+Preço: R$10.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$307.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 6
+Preço: R$505.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$208.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CARREGADOR
+ID: 8
+Preço: R$703.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 9
+Preço: R$10.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$901.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: PLACA DE VIDEO
+ID: 1
+Preço: R$604.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 2
+Preço: R$901.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 3
+Preço: R$901.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: GABINETE
+ID: 4
+Preço: R$406.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: NOTEBOOK
+ID: 5
+Preço: R$208.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 6
+Preço: R$10.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$208.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$802.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: OVERBOARD
+ID: 9
+Preço: R$703.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CELULAR
+ID: 10
+Preço: R$703.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: GABINETE
+ID: 1
+Preço: R$802.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: OVERBOARD
+ID: 2
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$604.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$10.00
+Origem: DF
+Destino: SC
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 5
+Preço: R$406.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 6
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 7
+Preço: R$109.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 8
+Preço: R$10.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: TABLET
+ID: 9
+Preço: R$406.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: OVERBOARD
+ID: 10
+Preço: R$505.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: MEMORIA RAM
+ID: 1
+Preço: R$307.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 2
+Preço: R$901.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$604.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: TABLET
+ID: 4
+Preço: R$802.00
+Origem: MG
+Destino: DF
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: MEMORIA RAM
+ID: 5
+Preço: R$208.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$10.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: GABINETE
+ID: 7
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: NOTEBOOK
+ID: 8
+Preço: R$901.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: FONE DE OUVIDO
+ID: 9
+Preço: R$802.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: NOTEBOOK
+ID: 10
+Preço: R$703.00
+Origem: SC
+Destino: MG
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$307.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$307.00
+
+Produtos: NOTEBOOK
+ID: 2
+Preço: R$505.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: OVERBOARD
+ID: 3
+Preço: R$703.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: MEMORIA RAM
+ID: 4
+Preço: R$703.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$109.00
+Origem: SC
+Destino: DF
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: CELULAR
+ID: 6
+Preço: R$406.00
+Origem: DF
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$406.00
+
+Produtos: FONE DE OUVIDO
+ID: 7
+Preço: R$604.00
+Origem: RJ
+Destino: SP
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: CARREGADOR
+ID: 8
+Preço: R$10.00
+Origem: MG
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$10.00
+
+Produtos: RELOGIO
+ID: 9
+Preço: R$604.00
+Origem: DF
+Destino: MG
+Valor do Produto a ser Inspecionado: R$604.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$901.00
+Origem: SC
+Destino: SP
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: CARREGADOR
+ID: 1
+Preço: R$703.00
+Origem: SP
+Destino: DF
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: PLACA DE VIDEO
+ID: 2
+Preço: R$703.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$703.00
+
+Produtos: FONE DE OUVIDO
+ID: 3
+Preço: R$109.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: PLACA DE VIDEO
+ID: 4
+Preço: R$109.00
+Origem: MG
+Destino: SC
+Valor do Produto a ser Inspecionado: R$109.00
+
+Produtos: OVERBOARD
+ID: 5
+Preço: R$802.00
+Origem: SP
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 6
+Preço: R$505.00
+Origem: DF
+Destino: SP
+Valor do Produto a ser Inspecionado: R$505.00
+
+Produtos: RELOGIO
+ID: 7
+Preço: R$208.00
+Origem: SP
+Destino: SC
+Valor do Produto a ser Inspecionado: R$208.00
+
+Produtos: MEMORIA RAM
+ID: 8
+Preço: R$802.00
+Origem: MG
+Destino: SP
+Valor do Produto a ser Inspecionado: R$802.00
+
+Produtos: PLACA DE VIDEO
+ID: 9
+Preço: R$901.00
+Origem: SC
+Destino: RJ
+Valor do Produto a ser Inspecionado: R$901.00
+
+Produtos: MEMORIA RAM
+ID: 10
+Preço: R$10.00
+Origem: RJ
+Destino: MG
+Valor do Produto a ser Inspecionado: R$10.00
+
+Caminhão desenfileirado: 6
